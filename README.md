@@ -108,5 +108,5 @@ streamlit run app.py
 
 Made with ❤️ by **Divyansh Gautam**
 
-[LinkedIn](https://www.linkedin.com/in/divyanshgautam/) | [GitHub](https://github.com/divyanshgautam)
+[LinkedIn](https://www.linkedin.com/in/divyansh-gautam-985610256 ) | [GitHub]([https://github.com/Divyansh-git10])
 
